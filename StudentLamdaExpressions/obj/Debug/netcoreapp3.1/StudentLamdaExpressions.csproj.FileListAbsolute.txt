@@ -1,0 +1,14 @@
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\bin\Debug\netcoreapp3.1\StudentLamdaExpressions.exe
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\bin\Debug\netcoreapp3.1\StudentLamdaExpressions.deps.json
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\bin\Debug\netcoreapp3.1\StudentLamdaExpressions.runtimeconfig.json
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\bin\Debug\netcoreapp3.1\StudentLamdaExpressions.runtimeconfig.dev.json
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\bin\Debug\netcoreapp3.1\StudentLamdaExpressions.dll
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\bin\Debug\netcoreapp3.1\StudentLamdaExpressions.pdb
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\obj\Debug\netcoreapp3.1\StudentLamdaExpressions.csproj.AssemblyReference.cache
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\obj\Debug\netcoreapp3.1\StudentLamdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\obj\Debug\netcoreapp3.1\StudentLamdaExpressions.AssemblyInfoInputs.cache
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\obj\Debug\netcoreapp3.1\StudentLamdaExpressions.AssemblyInfo.cs
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\obj\Debug\netcoreapp3.1\StudentLamdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\obj\Debug\netcoreapp3.1\StudentLamdaExpressions.dll
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\obj\Debug\netcoreapp3.1\StudentLamdaExpressions.pdb
+C:\Users\Teju Reddy\source\repos\StudentLamdaExpressions\StudentLamdaExpressions\obj\Debug\netcoreapp3.1\StudentLamdaExpressions.genruntimeconfig.cache
